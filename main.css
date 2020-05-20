@@ -284,7 +284,9 @@ animation-timing-function: ease-in-out;
   .last p{
     color: white;
   }
-  
+.justify {
+    justify-content: space-around;
+}
   .last1{
     border:1px solid #f2762c ;
     padding-bottom: 30px;
